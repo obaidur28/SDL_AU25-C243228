@@ -1,0 +1,6 @@
+course code :2340
+course mane: softwear deplapement 1
+name : obaidur 
+id: c243228
+sec:3fm
+sem:3rd
