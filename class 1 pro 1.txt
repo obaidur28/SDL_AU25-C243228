@@ -1,0 +1,15 @@
+package sd;
+import java.util.*;
+
+public class SD {
+
+    
+    public static void main(String[] args) {
+       Scanner name =new Scanner (System.in);
+       System.out.print("Enter Your name: ");
+       String n= name.nextLine ();
+       System.out.println("hello "+n);
+       
+       
+    }
+}
